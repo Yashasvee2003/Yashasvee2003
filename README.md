@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashasvee2003
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python,java
+- 🌱 I’m currently learning python,c++
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ... dunno
 
